@@ -1,0 +1,10 @@
+repositories:
+  autoware_vehicle_msgs:
+    type: git
+    url: https://github.com/tier4/autoware_vehicle_msgs.git
+    version: main
+
+  tier4_autoware_msgs:
+    type: git
+    url: https://github.com/tier4/tier4_autoware_msgs.git
+    version: main
