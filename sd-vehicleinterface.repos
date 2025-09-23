@@ -1,11 +1,6 @@
 repositories:
-  # core
-  core/autoware_msgs:
-    type: git
-    url: https://github.com/autowarefoundation/autoware_msgs.git
-    version: 1.10.0
-
-  core/tier4_autoware_msgs:
+  tier4_autoware_msgs:
     type: git
     url: https://github.com/tier4/tier4_autoware_msgs.git
+
     version: main
