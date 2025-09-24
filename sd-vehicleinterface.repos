@@ -1,4 +1,14 @@
 repositories:
+
+  SD-VehicleInterface:
+    type: git
+    url: https://github.com/Monash-Connected-Autonomous-Vehicle/SD-VehicleInterface.git
+    version: avp-demo
+
   tier4_autoware_msgs:
     type: git
     url: https://github.com/tier4/tier4_autoware_msgs.git
+
+autoware_msgs:
+    type: git
+    url: https://github.com/autowarefoundation/autoware_msgs.git
